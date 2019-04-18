@@ -9,7 +9,7 @@
 	* Transpiling
 * Chapter 2: Syntax
 	* Block-Scoped Declarations
-	* Spread / Rest
+	* [Spread / Rest](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20%26%20beyond/ch2.md#spreadrest)
 	* Default Parameter Values
 	* Destructuring
 	* Object Literal Extensions
